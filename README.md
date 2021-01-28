@@ -15,13 +15,6 @@ sudo apt-get install -y nodejs
 brew install node
 ```
 
-
-### React
-
-```
-npm install -g create-react-app
-```
-
 ## Running the code
 
 
